@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-context-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI tool that generates a project context prompt for ChatGPT by scanning your project files.",
   "main": "dist/index.js",
   "type": "module",
