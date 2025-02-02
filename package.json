@@ -14,12 +14,12 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.1.0",
-    "ignore": "^5.2.0"
+    "ignore": "^5.2.0",
+    "inquirer": "^9.1.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.0",
     "@types/node": "^18.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.7.3"
   }
 }
