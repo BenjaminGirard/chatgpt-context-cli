@@ -1,8 +1,3 @@
-Below is an example of a beautiful and useful `README.md` for **chatgpt-context-cli**:
-
----
-
-```markdown
 # chatgpt-context-cli
 
 [![npm version](https://badge.fury.io/js/chatgpt-context-cli.svg)](https://badge.fury.io/js/chatgpt-context-cli)
@@ -102,21 +97,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 
 If you have any questions or need help, please open an issue on the [GitHub repository](https://github.com/your-username/chatgpt-context-cli).
-
----
-
-Happy coding!
-```
-
----
-
-### Customizing the README
-
-- **Badges:**  
-  Update the badge links (e.g., for npm version, CI, etc.) with your repository's details.
-- **Repository Links:**  
-  Replace `your-username` with your GitHub username or organization.
-- **License & Contributing:**  
-  Customize these sections if you decide to use a different license or add additional contributing guidelines.
-
-This README provides a clear overview, installation instructions, usage examples, and contribution guidelines, making it useful and attractive to potential users and contributors.
